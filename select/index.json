@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "白い町",
+  "base_artist": "炙りなタウン",
+  "createdAt": "2026-02-06T09:35:01.642029Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白い町",
+      "artist": "炙りなタウン",
+      "has_synced": false,
+      "path": "select/pl_01_白い町_炙りなタウン.txt"
+    }
+  ]
+}
